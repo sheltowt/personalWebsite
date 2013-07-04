@@ -1,0 +1,56 @@
+body {
+  background:url('nature.jpg')no-repeat center center fixed;
+/*   background: url(images/bg.jpg) no-repeat center center fixed;  */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#title{
+	position: relative;
+	text-align: center;
+	font-size:80px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+#horizontalicons{
+	text-align: center;
+	position: relative;
+	top:20%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#horizontalicons p{
+	display:inline-block;
+	padding: 100px;
+}
+
+#horizontalicons img{
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	border:1px solid #F8F8FF;
+}
+
+#horizontalicons img:hover {
+  color:#f00;
+}
+
+#horizontalicons img:active {
+  color:#f00;
+}
+
+#horizontalicons img:focus {
+  color:#f00;
+}
+
+#medium{
+	height: 225px;
+	width: 225px; 
+}
+
+#github{
+	height: 225px;
+	width: 225px; 
+}
