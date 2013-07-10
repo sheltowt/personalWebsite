@@ -79,7 +79,8 @@ div.transbox{
   filter:alpha(opacity=60); /* For IE8 and earlier */
   }
 div.transbox p{
-  margin:0px 20px;
+/*   text-align: left; */
+  margin:0px 16px;
   font-weight:bold;
   color:#000000;
   }
