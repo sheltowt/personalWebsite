@@ -35,7 +35,7 @@ body {
 }
 
 #horizontalicons img:hover {
-  color:#f00;
+  opacity:1.0;
 }
 
 #horizontalicons img:active {
